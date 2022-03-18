@@ -1,16 +1,15 @@
-### Hi there 👋
+# 📊 GitHub Stats
 
-<!--
-**DennisHoyer/DennisHoyer** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
 
-Here are some ideas to get you started:
+[![](https://raw.githubusercontent.com/DennisHoyer/github-stats/master/generated/overview.svg)](https://github.com/dennishoyer)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+[![](https://raw.githubusercontent.com/DennisHoyer/github-stats/master/generated/languages.svg)](https://github.com/dennishoyer)
+
+</p>
+
+<br>
+
+[![](https://raw.githubusercontent.com/DennisHoyer/-github-profile-summary-cards/master/profile-summary-card-output/default/0-profile-details.svg)](https://github.com/dennishoyer)
+
+![](https://raw.githubusercontent.com/DennisHoyer/-github-profile-summary-cards/master/profile-summary-card-output/default/4-productive-time.svg)
