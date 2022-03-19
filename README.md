@@ -1,12 +1,8 @@
 # 📊 GitHub Stats
 
-<p align="center">
-
-[![](https://raw.githubusercontent.com/DennisHoyer/github-stats/master/generated/overview.svg)](https://github.com/dennishoyer)
-
-[![](https://raw.githubusercontent.com/DennisHoyer/github-stats/master/generated/languages.svg)](https://github.com/dennishoyer)
-
-</p>
+|                                                                                               |                                                                                                |
+| --------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------- |
+| ![](https://raw.githubusercontent.com/DennisHoyer/github-stats/master/generated/overview.svg) | ![](https://raw.githubusercontent.com/DennisHoyer/github-stats/master/generated/languages.svg) |
 
 <br>
 
