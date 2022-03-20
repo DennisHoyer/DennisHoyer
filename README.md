@@ -1,4 +1,4 @@
-<img src=https://github.com/DennisHoyer/DennisHoyer/raw/main/header.png" />
+<img src="https://github.com/DennisHoyer/DennisHoyer/raw/main/header.png" />
 
 ## 🛠 Technologies and Tools
 
