@@ -22,15 +22,15 @@
 <br>
 ⚡ Daily Tools
 <br>
-<code><img width="14%" src="https://financesonline.com/uploads/2019/08/YouTrack-logo1.png"></code>
-<code><img width="14%" src="https://www.vectorlogo.zone/logos/slack/slack-ar21.svg"></code>
-<code><img width="14%" src="https://www.vectorlogo.zone/logos/visualstudio_code/visualstudio_code-ar21.svg"></code>
-<code><img width="14%" src="https://www.vectorlogo.zone/logos/github/github-ar21.svg"></code>
-<code><img width="14%" src="https://www.vectorlogo.zone/logos/apple/apple-ar21.svg"></code>
-<code><img width="14%" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-ar21.svg"></code>
+<code><img width="13%" src="https://financesonline.com/uploads/2019/08/YouTrack-logo1.png"></code>
+<code><img width="13%" src="https://www.vectorlogo.zone/logos/slack/slack-ar21.svg"></code>
+<code><img width="13%" src="https://www.vectorlogo.zone/logos/visualstudio_code/visualstudio_code-ar21.svg"></code>
+<code><img width="13%" src="https://www.vectorlogo.zone/logos/github/github-ar21.svg"></code>
+<code><img width="13%" src="https://www.vectorlogo.zone/logos/apple/apple-ar21.svg"></code>
+<code><img width="13%" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-ar21.svg"></code>
 <br />
-<code><img width="14%" src="https://www.vectorlogo.zone/logos/google_chrome/google_chrome-ar21.svg"></code>
-<code><img width="14%" src="https://www.vectorlogo.zone/logos/nodejs/nodejs-ar21.svg"></code>
+<code><img width="13%" src="https://www.vectorlogo.zone/logos/google_chrome/google_chrome-ar21.svg"></code>
+<code><img width="13%" src="https://www.vectorlogo.zone/logos/nodejs/nodejs-ar21.svg"></code>
 
 </p>
 <br>
