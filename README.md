@@ -7,11 +7,11 @@
 <br>
 😍 My Favorites
 <br>
-<code><img width="20%" src="https://www.vectorlogo.zone/logos/typescriptlang/typescriptlang-ar21.svg"></code>
-<code><img width="20%" src="https://www.vectorlogo.zone/logos/reactjs/reactjs-ar21.svg"></code>
+<code><img width="17%" src="https://www.vectorlogo.zone/logos/typescriptlang/typescriptlang-ar21.svg"></code>
+<code><img width="17%" src="https://www.vectorlogo.zone/logos/reactjs/reactjs-ar21.svg"></code>
 <br>
-<code><img width="20%" src="https://financesonline.com/uploads/2019/08/YouTrack-logo1.png"></code>
-<code><img width="20%" src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-ar21.svg"></code>
+<code><img width="17%" src="https://financesonline.com/uploads/2019/08/YouTrack-logo1.png"></code>
+<code><img width="17%" src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-ar21.svg"></code>
 <br>
 </p>
 <br/>
