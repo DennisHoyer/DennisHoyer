@@ -111,10 +111,18 @@
 
 <br/>
 
- <details> 
-  <summary>📃 Resume</summary>
+## Professional Experience
 
-## Experience
+<img align="right" src="[https://img.shields.io/badge/Wordpress-blue?logo=wordpress&logoColor=white&style=flat](https://img.shields.io/badge/typescript-%23007ACC.svg?style=flat&logo=typescript&logoColor=white)" />
+<img align="right" src="https://img.shields.io/badge/Typo3-f49700?logo=typo3&logoColor=white&style=flat" />
+<img align="right" src="https://img.shields.io/badge/tailwindcss-38B2AC?logo=tailwindcss&logoColor=white" />
+<img align="right" src="https://img.shields.io/badge/React-blue?logo=react&logoColor=white&style=flat" />
+
+- 👨‍💻 **Software Engineer / Full-Stack Developer specialised for react application development**\
+  📆 dec/2021 - moment\
+  📍 **Selfemployed** - Germany
+  
+  
 
 <img align="right" src="https://img.shields.io/badge/Wordpress-blue?logo=wordpress&logoColor=white&style=flat" />
 <img align="right" src="https://img.shields.io/badge/Typo3-f49700?logo=typo3&logoColor=white&style=flat" />
@@ -122,7 +130,7 @@
 <img align="right" src="https://img.shields.io/badge/React-blue?logo=react&logoColor=white&style=flat" />
 
 - 👨‍💻 **Full-Stack Developer**\
-  📆 2019 - moment\
+  📆 2019 - dec/2021\
   📍 **Selfemployed** - Hanover, Germany
 
 <img align="right" src="https://img.shields.io/badge/(My)SQL-4479A1?logo=mysql&logoColor=white&style=flat" />
